@@ -3,3 +3,5 @@ torchvision
 torchaudio
 scikit-learn
 matplotlib
+tensorflow
+jupyter
