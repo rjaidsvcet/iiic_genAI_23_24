@@ -12,3 +12,7 @@ flask_cors
 langchain
 langchain_community
 streamlit
+langserve
+fastapi
+uvicorn
+sse_starlette
