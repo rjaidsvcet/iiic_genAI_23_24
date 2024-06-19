@@ -16,3 +16,6 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+pypdf
+chromadb
+faiss-cpu
