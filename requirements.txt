@@ -7,3 +7,7 @@ tensorflow
 jupyter
 nltk
 pandas
+flask
+flask_cors
+langchain
+langchain_community
