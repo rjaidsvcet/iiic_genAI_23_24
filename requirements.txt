@@ -11,3 +11,4 @@ flask
 flask_cors
 langchain
 langchain_community
+streamlit
