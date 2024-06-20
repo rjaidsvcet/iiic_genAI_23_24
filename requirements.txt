@@ -19,3 +19,8 @@ sse_starlette
 pypdf
 chromadb
 faiss-cpu
+python-dotenv
+langchain_groq
+langchain_objectbox
+langchain_google_genai
+langchain_huggingface
